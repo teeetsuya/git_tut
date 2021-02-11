@@ -1,7 +1,12 @@
 A
 B
 <<<<<<< HEAD
+<<<<<<< HEAD
 C
 =======
 D
 >>>>>>> 9e23bad2b591e35ac5e691fc924cd286aaa84a28
+=======
+D
+E
+>>>>>>> new-branch-2
